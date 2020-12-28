@@ -30,16 +30,22 @@ public class Config {
                 "{\n" +
                         "  \"type\": \"minecraft:crafting_shaped\",\n" +
                         "  \"pattern\": [\n" +
-                        "    \"BBB\",\n" +
                         "    \"BEB\",\n" +
-                        "    \"BBB\"\n" +
+                        "    \"BDB\",\n" +
+                        "    \"BOB\"\n" +
                         "  ],\n" +
                         "  \"key\": {\n" +
                         "    \"B\": {\n" +
                         "      \"item\": \"minecraft:stone_bricks\"\n" +
                         "    },\n" +
                         "    \"E\": {\n" +
-                        "      \"item\": \"minecraft:ender_pearl\"\n" +
+                        "      \"item\": \"minecraft:eye\"\n" +
+                        "    }\n" +
+                        "    \"D\": {\n" +
+                        "      \"item\": \"minecraft:diamond\"\n" +
+                        "    }\n" +
+                        "    \"O\": {\n" +
+                        "      \"item\": \"minecraft:obsidian\"\n" +
                         "    }\n" +
                         "  },\n" +
                         "  \"result\": {\n" +
